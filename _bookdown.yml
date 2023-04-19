@@ -1,5 +1,12 @@
+book_filename: "ebook_notes_5311"
 delete_merged_file: true
 output_dir: "docs"
 language:
+  label:
+     fig: 'Figura '
+     tab: 'Tabla '
+     eq: 'Ecuacion '
+     exr: 'Ejercicio '
+     solution: 'Solucion. '
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Clase "
